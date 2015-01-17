@@ -34,7 +34,7 @@ body {
     border:0px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
 
     .heading{
         font-weight: 100;
