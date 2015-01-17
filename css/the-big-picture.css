@@ -33,3 +33,17 @@ body {
     margin-bottom:50px;
     border:0px;
 }
+
+@media (min-width: 768px) {
+
+    .heading{
+        font-weight: 100;
+        font-size: 20px;
+    }
+
+    .heading h1{
+        font-weight: 100;
+        font-size: 70px;
+    }
+
+}
