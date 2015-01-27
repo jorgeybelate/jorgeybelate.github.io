@@ -1,0 +1,9 @@
+# Site settings
+title: jorgeybelate.com
+email: me@jorgebastida.com
+description: Our wedding website!
+baseurl: ""
+url: "http://jorgeybelate.com"
+
+# Build settings
+markdown: kramdown
