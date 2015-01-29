@@ -9,14 +9,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">JORGE & BELATE</a>
+            <a class="navbar-brand" href="/">JORGE & BELATE</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li>
-                    <a href="#">Próximamente podréis encontrar información sobre el horario, alojamiento, música etc...</a>
-                </li>
+                <li {% if page.permalink == "/alojamiento/" %}class="active"{% endif %}><a href="/alojamiento/">Alojamiento</a></li>
+                <li {% if page.permalink == "/turismo/" %}class="active"{% endif %}><a href="/turismo/">Turismo</a></li>
+                <li {% if page.permalink == "/eldia/" %}class="active"{% endif %}><a href="/eldia/">El Día</a></li>
+                <li {% if page.permalink == "/musica/" %}class="active"{% endif %}><a href="#">Música &nbsp;<span class="label label-default">soon</span></a></li>
+                <li {% if page.permalink == "/contacto/" %}class="active"{% endif %}><a href="/contacto/">Contacto</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->

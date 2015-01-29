@@ -1,0 +1,17 @@
+.full {
+  background: url(../img/jorgeybelate.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.emails a{
+    color:white;
+    text-decoration:none;
+    padding:10px;
+}
+
+.emails a:hover{
+    background-color:rgba(255, 255, 255, 0.3);
+}
