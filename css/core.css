@@ -60,3 +60,9 @@ body {
     }
 
 }
+
+
+#preload-01 { background: url(http://jorgeybelate.com/img/alojamiento.jpg) no-repeat -9999px -9999px; }
+#preload-02 { background: url(http://jorgeybelate.com/img/eldia.jpg) no-repeat -9999px -9999px; }
+#preload-03 { background: url(http://jorgeybelate.com/img/turismo.jpg) no-repeat -9999px -9999px; }
+#preload-04 { background: url(http://jorgeybelate.com/img/contacto.jpg) no-repeat -9999px -9999px; }
