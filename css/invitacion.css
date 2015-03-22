@@ -1,0 +1,22 @@
+.full {
+
+  background: url(../img/invitacion.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.imagenes{
+  min-height:1100px;
+  margin-top:200px;
+}
+
+.imagenes img{
+  margin:10px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  border: 1px solid white;
+}
