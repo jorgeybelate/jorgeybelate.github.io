@@ -7,3 +7,72 @@ url: "http://jorgeybelate.com"
 
 # Build settings
 markdown: kramdown
+
+turismo:
+  title:
+    en: Turism
+    es: Turismo
+  caption:
+    en:
+    es: ¡Qué mejor ocasión para hacer un poco de turismo! Si tenéis la oportunidad, no dejeis de visitar alguno de estos lugares.<br/><br/> Próximante
+
+invitacion:
+  title:
+    en: Invitation
+    es: Invitación
+
+  caption:
+    en: After several months designing and crafting our invitations, finally they look like we wanted!
+    es: Tras meses diseñando, recortando y montando invitaciones al fín conseguimos que quedaran como queríamos.
+
+eldia:
+  title:
+    en: The day
+    es: El día
+  caption:
+    en: We'll soon include more inforamtion about the schedule, transpor etc...
+    es: Próximante incluiremos información importante para el día de la boda. Horarios, Autobuses, etc...
+
+
+musica:
+  title:
+    en: Music
+    es: Musica
+
+contacto:
+  menu:
+    en: Contact/Presents
+    es: Contacto/Regalos
+
+  title:
+    en: Contact
+    es: Contacto
+
+  caption1:
+    en:
+    es: Si tenéis cualquier pregunta o necesitáis ayuda con algo, no dudéis en preguntarnos.
+
+  caption2:
+    en:
+    es: Si queréis regalarnos algo para ayudarnos con la boda, poneos en contacto con nosotros.
+
+alojamiento:
+  title:
+    en: Accomodation
+    es: Alojamiento
+
+  caption:
+    en:
+    es: Aquí teneis varias páginas donde encontrar alojamiento. Tened en cuenta que es una ciudad muy turísitica y siendo Agosto no va a ser fácil encontrar algo.
+
+  booking:
+    en:
+    es: En esta página encontrareís la mayoría de los hotels/hostales de Donostia, referencias y disponibilidad.
+
+  airbnb:
+    en:
+    es: En Airbnb podreis encontrar apartamentos. Un buen sitio si estáis buscando un alojamiento "diferente".
+
+  tripadvisor:
+    en:
+    es: Tripadvisor os ayudará a encontrar opiniones sobre cualquier alojamiento en la ciudad. Muy útil antes de tomar una decisión.

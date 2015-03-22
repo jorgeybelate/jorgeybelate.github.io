@@ -1,19 +1,19 @@
 ---
 layout: default
-permalink: /invitacion/
+base_permalink: invitacion
 ---
 
 <link href="{{ "/css/invitacion.css" | prepend: site.baseurl }}" rel="stylesheet">
 
 <div class="row">
       <div class="col-md-7"></div>
-      <div class="col-md-5 right"><h2>Invitación</h2></div>
+      <div class="col-md-5 right"><h2>{{ site['invitacion']['title'][page.language] }}</h2></div>
 </div>
 
 <div class="row">
       <div class="col-md-8"></div>
       <div class="col-md-4 right medium emails">
-          <p>Tras meses diseñando, recortando y montando invitaciones al fín conseguimos que quedaran como queríamos.</p>
+          <p>{{ site['invitacion']['caption'][page.language] }}</p>
 
       </div>
 
