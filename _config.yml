@@ -13,7 +13,7 @@ turismo:
     en: Turism
     es: Turismo
   caption:
-    en:
+    en: What a great opportunity to visit this beautiful city! If you have some spare days, please visit some of these places. Coming soon.
     es: ¡Qué mejor ocasión para hacer un poco de turismo! Si tenéis la oportunidad, no dejeis de visitar alguno de estos lugares.<br/><br/> Próximante
 
 invitacion:
@@ -49,30 +49,30 @@ contacto:
     es: Contacto
 
   caption1:
-    en:
+    en: If you have any question, or need any help, please ask us.
     es: Si tenéis cualquier pregunta o necesitáis ayuda con algo, no dudéis en preguntarnos.
 
   caption2:
-    en:
+    en: If you want to gift us something to help us with the wedding, please contact us before!
     es: Si queréis regalarnos algo para ayudarnos con la boda, poneos en contacto con nosotros.
 
 alojamiento:
   title:
-    en: Accomodation
+    en: Accommodation
     es: Alojamiento
 
   caption:
-    en:
+    en: Here you have several pages you can use to find accommodation in San Sebastian. This is a really touristic place, so book it on advance!
     es: Aquí teneis varias páginas donde encontrar alojamiento. Tened en cuenta que es una ciudad muy turísitica y siendo Agosto no va a ser fácil encontrar algo.
 
   booking:
-    en:
+    en: In this page you'll be able to book almost any hotel/hostel in San Sebastian, check reviews, availability, etc...
     es: En esta página encontrareís la mayoría de los hotels/hostales de Donostia, referencias y disponibilidad.
 
   airbnb:
-    en:
+    en: In Airbnb you'll be able to find flats. This is a good website if you are looking for a special accomodation.
     es: En Airbnb podreis encontrar apartamentos. Un buen sitio si estáis buscando un alojamiento "diferente".
 
   tripadvisor:
-    en:
+    en: Tripadvisor will help you to find reviews of any place in the city. Really helpful before booking something.
     es: Tripadvisor os ayudará a encontrar opiniones sobre cualquier alojamiento en la ciudad. Muy útil antes de tomar una decisión.
