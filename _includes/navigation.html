@@ -14,16 +14,21 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li {% if page.permalink == "/invitacion/" %}class="active"{% endif %}><a href="/{{ page.language }}/invitacion/">{{ site['invitacion']['title'][page.language] }}</a></li>
-                <li {% if page.permalink == "/alojamiento/" %}class="active"{% endif %}><a href="/{{ page.language }}/alojamiento/">{{ site['alojamiento']['title'][page.language] }}</a></li>
-                <li {% if page.permalink == "/turismo/" %}class="active"{% endif %}><a href="/{{ page.language }}/turismo/">{{ site['turismo']['title'][page.language] }}</a></li>
-                <li {% if page.permalink == "/eldia/" %}class="active"{% endif %}><a href="/{{ page.language }}/eldia/">{{ site['eldia']['title'][page.language] }}</a></li>
-                <li {% if page.permalink == "/musica/" %}class="active"{% endif %}><a href="#">{{ site['musica']['title'][page.language] }} &nbsp;<span class="label label-default">soon</span></a></li>
-                <li {% if page.permalink == "/contacto/" %}class="active"{% endif %}><a href="/{{ page.language }}/contacto/">{{ site['contacto']['menu'][page.language] }}</a></li>
+                <li {% if page.base_permalink == "invitacion" %}class="active"{% endif %}><a href="/{{ page.language }}/invitacion/">{{ site['invitacion']['title'][page.language] }}</a></li>
+                <li {% if page.base_permalink == "alojamiento" %}class="active"{% endif %}><a href="/{{ page.language }}/alojamiento/">{{ site['alojamiento']['title'][page.language] }}</a></li>
+                <li {% if page.base_permalink == "turismo" %}class="active"{% endif %}><a href="/{{ page.language }}/turismo/">{{ site['turismo']['title'][page.language] }}</a></li>
+                <li {% if page.base_permalink == "eldia" %}class="active"{% endif %}><a href="/{{ page.language }}/eldia/">{{ site['eldia']['title'][page.language] }}</a></li>
+                <li {% if page.base_permalink == "musica" %}class="active"{% endif %}><a href="#">{{ site['musica']['title'][page.language] }} &nbsp;<span class="label label-default">soon</span></a></li>
+                <li {% if page.base_permalink == "contacto" %}class="active"{% endif %}><a href="/{{ page.language }}/contacto/">{{ site['contacto']['menu'][page.language] }}</a></li>
 
             </ul>
-            <a href="/en/{{ page.base_permalink }}">EN</a>
-            <a href="/es/{{ page.base_permalink }}">ES</a>
+
+            <p class="navbar-text navbar-right">
+              <a href="/en/{{ page.base_permalink }}" class="navbar-link">EN</a>&nbsp;/&nbsp;
+              <a href="/es/{{ page.base_permalink }}" class="navbar-link">ES</a>
+            </p>
+
+
         </div>
         <!-- /.navbar-collapse -->
     </div>
