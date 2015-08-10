@@ -10,7 +10,7 @@ markdown: kramdown
 
 turismo:
   title:
-    en: Turism
+    en: Tourism
     es: Turismo
   caption:
     en: What a great opportunity to visit this beautiful city! If you have some spare days, please visit some of these places. Coming soon.
@@ -22,7 +22,7 @@ invitacion:
     es: Invitación
 
   caption:
-    en: After several months designing and crafting our invitations, finally they look like we wanted!
+    en: After several months designing and crafting our invitations, finally they looked how we wanted!
     es: Tras meses diseñando, recortando y montando invitaciones al fín conseguimos que quedaran como queríamos.
 
 eldia:
@@ -42,6 +42,7 @@ eldia:
   line4:
     en: <strong>It is not possible</strong> to bring your own car to the venue
     es: <strong>No es posible</strong> que os transladeis al banquete en vuestro coche particular
+
 musica:
   title:
     en: Music
@@ -57,11 +58,11 @@ contacto:
     es: Contacto
 
   caption1:
-    en: If you have any question, or need any help, please ask us.
+    en: If you have any questions, or need any help, please ask us.
     es: Si tenéis cualquier pregunta o necesitáis ayuda con algo, no dudéis en preguntarnos.
 
   caption2:
-    en: If you want to gift us any present to help us with the wedding, please contact us before!
+    en: If you want to give us any presents to help us with the wedding, please contact us beforehand!
     es: Si queréis regalarnos algo para ayudarnos con la boda, poneos en contacto con nosotros.
 
 alojamiento:
@@ -70,15 +71,15 @@ alojamiento:
     es: Alojamiento
 
   caption:
-    en: Here you have several pages you can use to find accommodation in San Sebastian. This is a really touristic place. <br/>Book it on advance!
+    en: Here you have several pages you can use to find accommodation in San Sebastian. This is a really touristic place. <br/>Book it in advance!
     es: Aquí teneis varias páginas donde encontrar alojamiento. Tened en cuenta que es una ciudad muy turísitica y siendo Agosto no va a ser fácil encontrar algo.
 
   booking:
-    en: In this page you'll be able to book almost any hotel/hostel in San Sebastian, check reviews, availability, etc...
+    en: On this page you'll be able to book almost any hotel/hostel in San Sebastian, check reviews, availability, etc...
     es: En esta página encontrareís la mayoría de los hotels/hostales de Donostia, referencias y disponibilidad.
 
   airbnb:
-    en: In Airbnb you'll be able to find flats. This is a good website if you are looking for a special accomodation.
+    en: On Airbnb you'll be able to find flats. This is a good website if you are looking for special accommodation.
     es: En Airbnb podreis encontrar apartamentos. Un buen sitio si estáis buscando un alojamiento "diferente".
 
   tripadvisor:
