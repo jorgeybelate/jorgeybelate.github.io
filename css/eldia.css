@@ -5,3 +5,14 @@
   -o-background-size: cover;
   background-size: cover;
 }
+.clean{
+  list-style-type: none;
+}
+
+.simple a{
+  color: white;
+  text-decoration: underline;
+}
+.down{
+  margin-top: 50px;
+}

@@ -16,11 +16,8 @@
             <ul class="nav navbar-nav">
                 <li {% if page.base_permalink == "invitacion" %}class="active"{% endif %}><a href="/{{ page.language }}/invitacion/">{{ site['invitacion']['title'][page.language] }}</a></li>
                 <li {% if page.base_permalink == "alojamiento" %}class="active"{% endif %}><a href="/{{ page.language }}/alojamiento/">{{ site['alojamiento']['title'][page.language] }}</a></li>
-                <li {% if page.base_permalink == "turismo" %}class="active"{% endif %}><a href="/{{ page.language }}/turismo/">{{ site['turismo']['title'][page.language] }}</a></li>
                 <li {% if page.base_permalink == "eldia" %}class="active"{% endif %}><a href="/{{ page.language }}/eldia/">{{ site['eldia']['title'][page.language] }}</a></li>
-                <li {% if page.base_permalink == "musica" %}class="active"{% endif %}><a href="#">{{ site['musica']['title'][page.language] }} &nbsp;<span class="label label-default">soon</span></a></li>
                 <li {% if page.base_permalink == "contacto" %}class="active"{% endif %}><a href="/{{ page.language }}/contacto/">{{ site['contacto']['menu'][page.language] }}</a></li>
-
             </ul>
 
             <p class="navbar-text navbar-right">

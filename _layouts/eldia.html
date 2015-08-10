@@ -10,7 +10,20 @@ base_permalink: eldia
       <div class="col-md-5 right"><h2>{{ site['eldia']['title'][page.language] }}</h2></div>
 </div>
 
-<div class="row">
-      <div class="col-md-8"></div>
-      <div class="col-md-4 right medium">{{ site['eldia']['caption'][page.language] }}</div>
+<div class="row simple">
+      <div class="col-md-0"></div>
+      <div class="col-md-12 right medium">
+        <ul class="clean">
+          <li>{{ site['eldia']['line1'][page.language] }}</li>
+          <li>{{ site['eldia']['line2'][page.language] }}</li>
+          <li>{{ site['eldia']['line3'][page.language] }}</li>
+      </div>
+</div>
+
+<div class="row simple down">
+      <div class="col-md-0"></div>
+      <div class="col-md-12 right medium">
+        <ul class="clean">
+          <li>{{ site['eldia']['line4'][page.language] }}</li>
+      </div>
 </div>

@@ -29,11 +29,19 @@ eldia:
   title:
     en: The day
     es: El día
-  caption:
-    en: We'll soon include more information about the schedule, transpor etc...
-    es: Próximante incluiremos información importante para el día de la boda. Horarios, Autobuses, etc...
+  line1:
+    en: The wedding will take place <strong>at midday in <a href="https://www.google.co.uk/maps/place/Parroquia+De+Aiete/@43.3074812,-1.9928595,17z/data=!4m6!1m3!3m2!1s0xd51affd4da18991:0x47d75d8b1ada33cb!2sParroquia+Sto+Cristo+Gurutzeaga+de+Aiete!3m1!1s0x0000000000000000:0x41bc368ad967eb7e">Parroquia de Aiete</a></strong>
+    es: La ceremonia tendrá lugar <strong>a las 12:00 en la <a href="https://www.google.co.uk/maps/place/Parroquia+De+Aiete/@43.3074812,-1.9928595,17z/data=!4m6!1m3!3m2!1s0xd51affd4da18991:0x47d75d8b1ada33cb!2sParroquia+Sto+Cristo+Gurutzeaga+de+Aiete!3m1!1s0x0000000000000000:0x41bc368ad967eb7e">Parroquia de Aiete</a></strong>
+  line2:
+    en: Once the ceremony ends, <strong>several buses will bring everybody to the venue</strong>
+    es: Una vez terminada la ceremonia, varios autobuses <strong>nos llevarán a todos al lugar del banquete</strong>
+  line3:
+    en: <strong>Around 23:00</strong> several buses will bring everybody to the center of San Sebastian
+    es: <strong>A las 23:00</strong> varios autobuses nos llevarán de vuelta al centro de San Sebastián
 
-
+  line4:
+    en: <strong>It is not possible</strong> to bring your own car to the venue
+    es: <strong>No es posible</strong> que os transladeis al banquete en vuestro coche particular
 musica:
   title:
     en: Music
